@@ -1,0 +1,64 @@
+[
+        {
+            "img": "./img/des1.jpg",
+            "id": "142",
+            "name": "sbmyst",
+            "price": "10,000"
+        },
+
+        {
+            "img": "./img/des2.jpg",
+            "id": "142",
+            "name": "sbmyst",
+            "price": "5000"
+        },
+
+        {
+            "img": "./img/des3.jpg",
+            "id": "154",
+            "name": "wmybe",
+            "price": "20,000"
+        },
+
+        {
+            "img": "./img/des4.jpg",
+            "id": "154",
+            "name": "wmybe",
+            "price": "25,000"
+        },
+
+        {
+            "img": "./img/des1.jpg",
+            "id": "310",
+            "name": "somyri",
+            "price": "30,000"
+        },
+
+        {
+            "img": "./img/des2.jpg",
+            "id": "154",
+            "name": "somyri",
+            "price": "10,000"
+        },
+
+        {
+            "img": "./img/des3.jpg",
+            "id": "209",
+            "name": "omonood",
+            "price": "9000"
+        },
+
+        {
+            "img": "./img/des4.jpg",
+            "id": "249",
+            "name": "bmypimp",
+            "price": "15,000"
+        },
+        
+        {
+            "img": "./img/des1.jpg",
+            "id": "258",
+            "name": "heck1",
+            "price": "24,000"
+        }
+]
